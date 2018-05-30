@@ -34,6 +34,8 @@ dependencies {
     //okhttp
     compile 'com.squareup.okhttp3:okhttp:3.6.0'
     compile 'com.squareup.okio:okio:1.11.0'
+    // recycleView
+    compile 'com.android.support:recyclerview-v7:24.2.1'
 }
 repositories {
     mavenCentral()

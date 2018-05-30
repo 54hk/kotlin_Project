@@ -5,7 +5,10 @@
               android:layout_height="match_parent">
 
 
-    <Button android:layout_width="wrap_content" android:layout_height="wrap_content"
-            android:text="wo shi two 页面"
+    <Button
+            android:id="@+id/startbut"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="点我一下试试"
     />
 </LinearLayout>
